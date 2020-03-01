@@ -1,0 +1,95 @@
+.center{
+    text-align: center;
+    border-width: 15px;
+    border-color: crimson;
+    border-radius: 200px;
+    block-size: 290px;
+    border-style: ridge;
+}
+.output{
+    border-radius: 10px;
+    margin-left: 40px;
+    text-align: center;
+    border-color: #16d04f
+}
+.F2name{
+    border-radius: 10px;
+    margin-left: 5px;
+    text-align: center;
+    border-color: darkblue;
+}
+.F1name{
+    border-radius: 10px;
+    margin-left: 10px;
+    text-align: center;
+    border-color: darkblue;
+}
+.button{
+    margin-left: 95px;
+}
+
+#addition:hover {
+    background-color: #f10808
+}
+#addition:active {
+    background-color: #3e8e41;
+    box-shadow: 2px #666;
+    transform: translateY(4px);
+}
+#addition{
+    border-radius: 10px;
+    padding: 10px;
+    cursor: pointer;
+}
+#subtraction:hover {
+    background-color: #f10808
+}        
+#subtraction:active {
+    background-color: #3e8e41;
+    box-shadow: 0 2px #666;
+    transform: translateY(4px);
+}
+#subtraction{
+    border-radius: 10px;
+    padding: 10px;
+    cursor: pointer;
+}
+#multiplication:hover {
+    background-color: #f10808
+}
+#multiplication:active {
+    background-color: #3e8e41;
+    box-shadow: 0 2px #666;
+    transform: translateY(4px);
+}
+#multiplication{
+    border-radius: 10px;
+    padding: 10px;
+    cursor: pointer;
+}
+#division:hover {
+    background-color: #f10808
+}
+#division:active {
+    background-color: #3e8e41;
+    box-shadow: 0 2px #666;
+    transform: translateY(4px);
+}
+#division{
+    border-radius: 10px;
+    padding: 10px;
+    cursor: pointer;
+}
+#percentage:hover {
+    background-color: #f10808
+}
+#percentage:active {
+    background-color: #3e8e41;
+    box-shadow: 0 2px #666;
+    transform: translateY(4px);
+}   
+#percentage{
+    cursor: pointer;
+    border-radius: 10px;  
+    padding: 10px;
+}
